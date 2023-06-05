@@ -1,5 +1,5 @@
 # Cord Map
-acts as a central hub for receiving, processing,
+CordMap acts as a central hub for receiving, processing,
 and persisting GPS data from multiple devices or sources.
 It is designed to handle high volumes of incoming data,
 ensuring accurate and reliable storage of location information.
